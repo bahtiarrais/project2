@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>main_Detail Customer DataCustomer NameCusto_1df1f4</name>
+   <tag></tag>
+   <elementGuidId>ee6801c9-9315-4264-8de5-2fe09ded8c6e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>main</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-main</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ContentMain</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail Customer DataCustomer NameCustomer Risk ProfileSIDDetail ProductProduct NameTEST2019Redemption Period: 10 Jan 2020 - 20 Feb 2020Order Code101T201913100156 - IDR 500,000Detail RequestSecurities AccountCASA Account NoRemaining HoldingRemaining Early Redemption QuotaMinimum Early RedemptionMultiplicationNominal Early Redemption DEFINISI&quot;Commbank&quot; atau &quot;Bank&quot; merujuk kepada PT Bank Commonwealth.&quot;Obligasi/Sukuk&quot; merujuk kepada SBN Ritel Online.&quot;Layanan transaksi SBN Ritel secara elektronik (online)&quot; adalah fasilitas pemesanan SBN Ritel dengan media elektronik dan melalui jaringan internet yang dapat dilakukan sendiri oleh investor dan terintegrasi dengan sistem SBN Ritel pada Kementerian Keuangan.“Aplikasi Commbank SmartWealth” adalah aplikasi yang dimiliki oleh PT Bank Commonwealth.“Produk” merujuk kepada SBN Ritel Online.“SBN Ritel Online” adalah Surat Berharga Negara yang diterbitkan oleh pemerintah Republik Indonesia yang proses transaksinya hanya melalui media online.SYARAT-SYARAT DAN KETENTUAN-KETENTUAN SBN RITEL ONLINENasabah wajib melakukan registrasi dengan menyiapkan data yang sekurang-kurangnya terdiri dari Surat Elektronik (e-mail), Single Investor Identification (SID), Rekening Dana, dan Rekening Surat Berharga (Efek) untuk dapat menggunakan layanan transaksi SBN Ritel Online.Data registrasi yang disampaikan oleh Nasabah melalui sistem SBN Ritel ini akan menjadi milik Pemerintah dan dapat digunakan Pemerintah dengan mengacu pada ketentuan kerahasiaan data dan peraturan lain yang berlaku.Nasabah bertanggung jawab penuh secara pribadi untuk menjaga keamanan dan kerahasiaan akun, kata sandi, dan/atau standar keamanan lainnya untuk semua aktivitas dalam penggunaan transaksi SBN Ritel Online.Nasabah membebaskan Pemerintah dari segala tuntutan menyangkut penyalahgunaan akun, kata sandi, dan/atau standar keamanan lainnya.Dalam hal terdapat kendala dalam penggunaan transaksi SBN Ritel secara elektronik, Nasabah wajib segera menghubungi Commbank. Silakan hubungi Call CommBank 1500 030 atau untuk nasabah Commonwealth Premier Banking hubungi 1500 938.Nasabah bertanggung jawab atas segala biaya, klaim, kerusakan, kerugian (termasuk namun tidak terbatas pada kerugian yang timbul dari Transaksi) atau kewajiban lainnya karena ketidakmampuan dan ketidakpahaman Nasabah dalam menggunakan layanan transaksi SBN Ritel Online.Nasabah memahami dan mengerti  adanya potensi kerugian yang mungkin timbul di kemudian hari atas terjadinya kerusakan sistem layanan transaksi SBN Ritel Online dan/atau keadaan darurat yang berada di luar kendali Pemerintah dan/atau Bank yang mengakibatkan sistem layanan transaksi SBN Ritel secara elektronik tidak dapat bekerja secara normal yang disebabkan oleh Kejadian atau keadaan kahar (force majeure), termasuk namun tidak terbatas pada hal-hal sebagai berikut: bencana alam, perang yang timbul dari atau sebagai akibat perang, tindakan sabotase oleh teroris, pemberontakan, gempa bumi, badai letusan gunung berapi, banjir, badai, kondisi cuaca luar biasa buruk, yang dinyatakan resmi oleh Pemerintah Republik Indonesia; perubahan situasi kondisi politik dan ekonomi maupun kebijakan pemerintah yang luar biasa yang berakibat tidak kondusif untuk melakukan transaksi SBN Ritel, dan/atau perubahan atas peraturan perundang-undangan yang berpengaruh langsung atas transaksi SBN Ritel. Oleh karenanya, Nasabah bersedia bertanggungjawab penuh atas kerugian yang mungkin timbul yang disebabkan oleh keadaan kahar (force majeure) tersebut di atas. Sebelum menentukan untuk berinvestasi di SBN Ritel Online, calon Nasabah harus mempelajari dan memahami sepenuhnya informasi mengenai SBN Ritel Online yang bersangkutan dengan membaca Memorandum Informasi Produk. Calon Nasabah kemudian dapat melakukan pembelian SBN Ritel Online melalui aplikasi Commbank SmartWealth selama periode pembelian yang ditentukan.Nasabah setuju untuk menguasakan (wakalah) pengelolaan dana investasi pada Sukuk Tabungan dan seluruh hak terkait Aset SBSN Sukuk Tabungan kepada Perusahaan Penerbit SBSN Indonesia sebagai Wali Amanat untuk kegiatan investasi yang menghasilkan keuntungan (Untuk Sukuk Tabungan, dalam hal telah menjadi pemegang atau pemilik Sukuk Tabungan).Masing-masing Nasabah dapat mencairkan kembali sebagian Obligasi yang dimilikinya sesuai dengan ketentuan yang telah diatur oleh sistem SBN Ritel Online dengan memilih menu pencairan pada aplikasi Commbank SmartWealth dalam periode pencairan yang telah ditetapkan untuk setiap Obligasi tersebut. Dalam hal Nasabah ingin menambah jumlah pengajuan pencairan kembali, maka Nasabah dapat membuat transaksi pencairan kembali melalui aplikasi Commbank SmartWealth apabila masih memenuhi ketentuan tersebut.RISIKO-RISIKO YANG TERKAIT DENGAN SBN RITEL ONLINERisiko berinvestasi pada SBN Ritel Online sebagaimana tercantum dalam Memorandum Informasi Produk.PERNYATAAN DAN JAMINANNasabah mengerti dan menyetujui isi syarat dan ketentuan layanan transaksi SBN Ritel secara elektronik.Nasabah setuju untuk mematuhi peraturan terkait SBN Ritel yang diterbitkan Kementerian Keuangan beserta seluruh peraturan terkait yang berlaku.Nasabah telah memahami dan setuju untuk mematuhi seluruh ketentuan dalam proses registrasi SBN Ritel secara elektronik serta melengkapi semua data yang dibutuhkan secara benar dan lengkap.Nasabah menjamin kebenaran dan kelengkapan data dan/atau informasi yang Nasabah sampaikan kepada Bank.Nasabah telah mengakui dan memahami bahwa Surat Berharga Negara termasuk Surat Utang Negara dan Surat Berharga Syariah Negara yang diperjual-belikan pada Pasar Perdana atau Pasar Sekunder (“Produk”) merupakan produk investasi yang diterbitkan Pemerintah dan bukan merupakan produk PT Bank Commonwealth (“Bank”) sehingga Bank tidak bertanggung jawab terhadap risiko-risiko yang mungkin timbul termasuk namun tidak terbatas pada risiko kerugian dari Produk yang Nasabah beli. Surat Berharga Negara dijamin pembayaran pokok dan bunganya oleh Negara Republik Indonesia, sesuai dengan masa berlakunya, sebagaimana dimaksud dalam Undang-Undang Surat Utang Negara dan Undang-Undang Surat Berharga Syariah Negara.Nasabah bertanggung jawab dari segala tuntutan, gugatan, atau kerugian apapun yang timbul dari transaksi Produk.Nasabah dengan ini menyatakan bahwa Nasabah telah terlebih dahulu mengisi Kuesioner Profil Risiko dan bertanggung jawab sepenuhnya atas transaksi ini apabila berbeda dengan rekomendasi dari hasil Kuesioner Profil Risiko.Nasabah dengan ini menyatakan terikat pada ketentuan-ketentuan yang berada di dalam Surat Pernyataan Surat Berharga Negara Nasabah.Dalam hal usia Nasabah telah mencapai atau melebihi 60 tahun, Nasabah telah mengerti risiko-risiko yang mungkin timbul dari Produk yang Nasabah beli dan keputusan Nasabah untuk berinvestasi adalah murni atas pertimbangan Nasabah sendiri dengan tanpa pengaruh dari siapapun.Nasabah memahami dan setuju bahwa semua pembayaran kupon (bunga/imbalan) beserta hasil penjualan Produk akan dikreditkan ke rekening yang sama pada saat pembelian.Nasabah setuju bahwa Bank dapat memberikan informasi data yang Nasabah berikan, berkaitan dengan transaksi obligasi, kegiatan usahanya atau dalam memenuhi peraturan atau perundang-undangan yang berlaku, kepada pihak ketiga manapun termasuk akan tetapi tidak terbatas pada grup, perusahaan asosiasi dan afiliasinya, manajer investasi dan bank dimana rekening investasi tersebut disimpan dan kepada lembaga pemerintah yang berwenang, termasuk Kementerian Keuangan.Nasabah menyatakan dan menjamin bahwa Nasabah adalah Warga Negara Indonesia.Nasabah sudah membaca dan mengerti Memorandum Informasi terkait produk yang sedang ditawarkan.Nasabah mengerti dan menyetujui isi syarat dan ketentuan layanan transaksi SBN Ritel Online.Nasabah setuju untuk mematuhi peraturan terkait SBN Ritel yang diterbitkan Kementerian Keuangan beserta seluruh peraturan terkait yang berlaku.INFORMASI UMUMBank dengan ini menyatakan tidak bertanggung jawab atas segala tuntutan, risiko atas Obligasi dan juga terhadap (i) saran-saran investasi dalam Obligasi apapun yang mungkin diberikan dan kinerja Obligasi apapun dan Nasabah mengakui keinginan mencari informasi finansial sendiri berkenaan dengan peluang investasi tersebut; dan (ii) atas ongkos, biaya, pengeluaran, hutang, kewajiban, denda, klaim, tuntutan, tindakan, tindakan hukum, keputusan pengadilan, gugatan, kerugian (termasuk kerugian peluang investasi), atau kerugian bersifat apapun juga ('Kerugian&quot;) yang diderita atau ditimbulkan oleh Nasabah akibat sehubungan dengan pembelian, penjualan kembali Obligasi atau transaksi lainnya yang dilakukan atau lalai dilakukan oleh Nasabah berdasarkan informasi-informasi produk yang diberikan oleh Commbank menurut Syarat-Syarat dan Ketentuan-Ketentuan ini.Seluruh surat-menyurat dan informasi sehubungan dengan investasi Obligasi akan ditujukan kepada Nasabah sesuai dengan alamat surat-menyurat dan/atau nomor telepon (SMS) dan/atau e-mail yang terdaftar pada Bank.Nasabah wajib melakukan pembayaran atas jumlah pemesanan yang dilakukan melalui aplikasi Commbank SmartWealth. Pembayaran dapat dilakukan melalui saluran-saluran pembayaran yang telah ditentukan dalam jangka waktu yang telah diinformasikan oleh Bank yang mana penempatan efektifnya baru dihitung sejak tanggal penyelesaian.Setiap pertanyaan atau permintaan informasi tambahan mengenai Obligasi dapat diajukan secara tertulis kepada Bank, dan Bank akan memberikan jawaban atau informasi tambahan yang diminta secara tertulis berdasarkan jawaban atau informasi yang diterima Bank dari penerbit Obligasi yang bersangkutan.Nasabah akan mendapatkan laporan bulanan dalam bentuk Laporan Konsolidasi yang berisikan informasi mengenai kepemilikan Obligasi atas nama Nasabah. Harga Indikasi yang tertera dalam laporan tersebut merupakan harga obligasi yang ditetapkan oleh Bank atas kebijakannya sendiri dengan bersumber kepada informasi dari pihak ketiga yang menurut penilaian Bank dengan merujuk pada ketentuan yang berlaku kompeten dalam menentukan penilaian terhadap harga obligasi.Syarat dan Ketentuan ini telah disesuaikan dengan ketentuan peraturan perundang-undangan termasuk ketentuan Otoritas Jasa Keuangan.Pemesanan yang telah disubmit tidak dapat diubah/dibatalkan dan jika tidak dilakukan pembayaran dalam periode tertentu setelah menerima kode billing maka secara otomatis pesanan Anda batal/menjadi kadaluarsa.Apabila terdapat perubahan atas syarat dan ketentuan tersebut di atas, maka Bank akan melaksanakan pemberitahuan atas perubahan kepada Nasabah selambat-lambatnya 30 hari kerja sebelum berlakunya perubahan syarat dan ketentuan yang baru.I declare that I have submit early redemption data correctly and completelyThe early redemption that have been submitted cannot be changed or cancelled.NEXT</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ContentMain&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//main[@id='ContentMain']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Viewport']/div/main</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early Redemption'])[1]/following::main[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main</value>
+   </webElementXpaths>
+</WebElementEntity>

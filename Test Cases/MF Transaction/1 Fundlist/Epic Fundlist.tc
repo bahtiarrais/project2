@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Flow for access fundlist</description>
+   <name>Epic Fundlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be8d847b-76ba-4e2a-b423-8205cbc52ed9</testCaseGuid>
+</TestCaseEntity>
